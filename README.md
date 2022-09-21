@@ -1,2 +1,2 @@
-# WIndows-Junk-Cleaner
-Generic junk cleaner, not at all advisable to use because JetClean and CCleaner exists ffs. This is for revising Tkinter. Ignore this like your assignments.
+#Just run the script and clean some junk
+> GGD is some equivalent of junk
