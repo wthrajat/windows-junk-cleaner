@@ -3,7 +3,7 @@ import tkinter.messagebox
 import os
 import os.path
 import threading
-
+raand
 rubbishExt = ['.tmp', '.bak', '.old', '.wbk', '.xlk', '_mp', '.gid',
               '.chk', '.syd', '.$$$', '.@@@', ".~*"]
 
