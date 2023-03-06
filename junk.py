@@ -22,6 +22,7 @@ class Window:
         self.root = tkinter.Tk()
 
         # Create menu.
+        self.root.iconbitmap("logo.ico")
         menu = tkinter.Menu(self.root)
 
         # Create 'System' submenu
@@ -92,7 +93,7 @@ class Window:
                                                 "Delete GGD Junk?")
         if result == 'no':
             return
-        #tkinter.messagebox.showinfo("GGD Cleaner", "Cleaning GGD...")
+        # tkinter.messagebox.showinfo("GGD Cleaner", "Cleaning GGD...")
         self.drives = GetDrives()
         t = threading.Thread(target=self.DeleteRubbish, args=(self.drives,))
         t.start()
