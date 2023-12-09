@@ -17,7 +17,7 @@ $ source .venv/bin/activate
 - Install dependencies in virtual env:
 
 ```console
-python -m pip install requirements.txt
+$ python -m pip install requirements.txt
 ```
 
 > Note: Or you can install dependencies manually using `pip install package_name` if you encounter any repository-related error.
