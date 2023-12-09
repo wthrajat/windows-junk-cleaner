@@ -2,15 +2,29 @@
 
 ### Run
 
-- Setup and activate python virtual environment:
+- Setup python virtual environment:
+
 ```console
-python -m venv .virtual_env_name
-source .venv/bin/activate
+$ python -m venv .virtual_env_name
 ```
+
+- Activate venv:
+
+```console
+$ source .venv/bin/activate
+```
+
 - Install dependencies in virtual env:
+
 ```console
 python -m pip install requirements.txt
 ```
-Note: Or you can install dependencies manually using `pip install package_name` if you encounter any repository-related error.
+
+> Note: Or you can install dependencies manually using `pip install package_name` if you encounter any repository-related error.
 
 - Run the `.py` file and scan for junk before proceeding to clean it.
+
+### Interface
+
+
+![](assets/20231209_234411_Screenshot_2023-12-09 230319.png)
