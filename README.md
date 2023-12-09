@@ -26,5 +26,18 @@ python -m pip install requirements.txt
 
 ### Interface
 
+- Choosing an option:
 
-![](assets/20231209_234411_Screenshot_2023-12-09 230319.png)
+<div align="center">
+    <img src="assets/1.png" alt="Option 1">
+</div><br>
+
+- Analysing junk...
+<div align="center">
+    <img src="assets/3.png" alt="Junk Analysis">
+</div><br>
+
+- Cleaning junk...
+<div align="center">
+    <img src="assets/2.png" alt="Junk Cleaning">
+</div>
